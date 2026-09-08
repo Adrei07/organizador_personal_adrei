@@ -12,3 +12,6 @@ Aprender bien el clone y fork para poder trabajar en conjunto
 
 ## Autor
 Adrei Blanco Márquez 
+
+## Estado 
+Creando el repositorio de github y git 
