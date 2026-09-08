@@ -3,3 +3,4 @@
 - Modificar tareas 
 - Modifiar tareas como terminadas
 - Registrar notas
+- Consultar tareas pendientes
