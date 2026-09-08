@@ -15,3 +15,5 @@ Adrei Blanco Márquez
 
 ## Estado 
 Creando el repositorio de github y git 
+
+## Colaboración
