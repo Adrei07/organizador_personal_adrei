@@ -1,0 +1,12 @@
+# Respuestas a las preguntas 
+
+1. Local vs. Remoto: El local es la carpeta de tu computadora; el remoto es lo que está guardado en la nube (como GitHub).
+2. Commit vs. Push: Commit es guardar tus cambios con una nota en tu propia compu; push es subir esos cambios guardados a la nube.
+3. .gitignore`: Es un archivo donde le dices a Git qué carpetas o archivos debe ignorar para que no los suba al internet.
+4. ¿Por qué no subir `.venv`?: Porque pesa un montón, tiene archivos que solo funcionan en tu compu y no tiene caso subirlos. Es mejor que cada quien cree el suyo.
+5. `requirements.txt`: Es una lista tipo "receta" con los nombres y versiones de los programas o librerías que tu proyecto necesita para funcionar.
+6. Fork vs. Clone: Fork es copiar un proyecto ajeno a tu cuenta de GitHub; clone es descargar un proyecto de GitHub a tu computadora.
+7. ¿Por qué usar ramas (branches)?: Para trabajar en un cambio o experimento en una "copia segura" sin arruinar el código principal que ya funciona.
+8. Pull Request (PR): Es pedirle a tu equipo que revise el código que hiciste en tu rama antes de pegarlo al proyecto principal.
+9. ¿Qué revisar antes del merge?: Que el código funcione bien, que no rompa lo de los demás y que no haya choques (conflictos) entre archivos.
+10. ¿Por qué hacer `git pull` al final?: Porque el proyecto en la nube ya cambió al hacer el merge, y necesitas bajar esos cambios a tu compu para tener lo más nuevo.
